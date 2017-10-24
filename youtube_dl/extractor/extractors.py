@@ -909,6 +909,10 @@ from .rutube import (
 from .rutv import RUTVIE
 from .ruutu import RuutuIE
 from .ruv import RuvIE
+from .samanthabee import (
+    SamanthaBeeIE,
+    SamanthaBeePlaylistIE
+)
 from .sandia import SandiaIE
 from .safari import (
     SafariIE,
